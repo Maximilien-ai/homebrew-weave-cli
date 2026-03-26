@@ -1,8 +1,8 @@
 class WeaveCli < Formula
   desc "AI-powered CLI for managing vector databases"
   homepage "https://github.com/maximilien/weave-cli"
-  url "https://github.com/maximilien/weave-cli/archive/refs/tags/v0.11.6.tar.gz"
-  sha256 "1831b3d0361875a644e710dc22634cc37fcffe5f98a9c7f9fa26a24738df252c"
+  url "https://github.com/maximilien/weave-cli/archive/refs/tags/v0.12.0.tar.gz"
+  sha256 "75624ba528f1265b7d9fd5f8fa055046bcb54efce67dc4a71c9fa220825d997d"
   license "MIT"
   head "https://github.com/maximilien/weave-cli.git", branch: "main"
 
